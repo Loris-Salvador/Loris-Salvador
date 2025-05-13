@@ -4,7 +4,7 @@
 
 I am currently a **first-year Master's student** in **Computer Science - System Architecture**
 
-## 📚 Academic Projects
+##  🗂️ Repositories
 
 I organize my school repositories based on my academic year. You can recognize them as they start with the following prefixes:
 
@@ -13,6 +13,8 @@ I organize my school repositories based on my academic year. You can recognize t
 * **b3**: Projects from my third year of Bachelor's degree
 * **masi4**: Projects from my first year of Master's degree
 * **masi5**: Projects from my second year of Master's degree
+
+Repositories that do not start with these prefixes correspond to my personal projects or side experiments.
 
 ## 💻 Interests
 
