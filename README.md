@@ -1,16 +1,31 @@
-## Hi there 👋
+👋 Hello, I'm [Your Name]!
 
-<!--
-**Loris-Salvador/Loris-Salvador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 About Me
 
-Here are some ideas to get you started:
+I am currently a first-year Master's student in Computer Science - System Architecture. Passionate about software development, I am especially interested in backend development and software architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Academic Projects
+
+Throughout my studies, I have worked on various projects, and I organize my school repositories based on my academic year. You can recognize them as they start with the following prefixes:
+
+b1: Projects from my first year of Bachelor's degree
+
+b2: Projects from my second year of Bachelor's degree
+
+b3: Projects from my third year of Bachelor's degree
+
+masi4: Projects from my first year of Master's degree
+
+masi5: Projects from my second year of Master's degree
+
+💻 Interests
+
+I am particularly focused on:
+
+Backend Development 🛠️
+
+Software Architecture 🏛️
+
+Feel free to check out my repositories to see my latest work!
+
+📫 How to Reach Me
