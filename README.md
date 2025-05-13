@@ -2,7 +2,7 @@
 
 ## 🌱 About Me
 
-I am currently a **first-year Master's student** in **Computer Science - System Architecture**. Passionate about software development, I am especially interested in **backend development** and **software architecture**.
+I am currently a **first-year Master's student** in **Computer Science - System Architecture**
 
 ## 📚 Academic Projects
 
