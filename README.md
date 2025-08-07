@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-I am currently a **first-year Master's student** in **Computer Science - System Architecture**
+I am currently a **last-year Master's student** in **Computer Science - System Architecture**
 
 ## 🌱 Currently Learning
 
