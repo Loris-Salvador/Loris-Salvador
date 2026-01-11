@@ -4,20 +4,12 @@
 
 I am currently a **last-year Master's student** in **Computer Science - System Architecture**
 
-## 🌱 Currently Learning
-
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-
 ##  🗂️ Repositories
 
 I organize my school repositories based on my academic year. You can recognize them as they start with the following prefixes:
 
-* **b1**: Projects from my first year of Bachelor's degree
-* **b2**: Projects from my second year of Bachelor's degree
-* **b3**: Projects from my third year of Bachelor's degree
-* **masi4**: Projects from my first year of Master's degree
-* **masi5**: Projects from my second year of Master's degree
+* **b**: Projects from my Bachelor's degreee
+* **masi**: Projects from my Master's degree
 
 Repositories that do not start with these prefixes correspond to my personal projects or side experiments.
 
