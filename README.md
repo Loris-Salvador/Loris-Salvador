@@ -47,5 +47,6 @@ Repositories that do not start with these prefixes correspond to my personal pro
 - Git 
 - Github (Github Project, Github Actions)
 - GitLab
-
+- Jira
+- Azure DevOps
 
