@@ -37,7 +37,6 @@ Repositories that do not start with these prefixes correspond to my personal pro
 ### 🏗️ Software Architecture
 - Software Architecture principles
 - Design patterns
-- Scalable and modular architectures
 
 ### 🧪 Quality Assurance & Testing
 - Software Testing
