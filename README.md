@@ -13,15 +13,15 @@ I organize my school repositories based on my academic year. You can recognize t
 
 Repositories that do not start with these prefixes correspond to my personal projects or side experiments.
 
-## 🧠 Areas of Expertise
+## 🧠 Skills
 
 ### 🤖 Machine Learning & Data
 - Machine Learning (concepts, models, implementation)
 - Data analysis and processing
 
 ### 🌐 Networking & Systems
-- Network Routing & Switching
 - Networking fundamentals
+- Network Routing (OSPF, EIGRP, BGB) & Switching
 
 ### ☁️ Cloud & DevOps
 - AWS (cloud services, deployment, architecture)
